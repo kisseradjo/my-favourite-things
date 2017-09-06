@@ -1,0 +1,22 @@
+h1 {
+  color: #496B92;
+  text-align: center;
+}
+
+h2 {
+  color: #138B21;
+  font-style: italic;
+  text-align: center;
+}
+
+body {
+  background-color: #C6ABB6;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+ol {
+  line-height: 40px;
+}
